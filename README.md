@@ -1,6 +1,6 @@
-#Machine Learning
+# Machine Learning
 
 
-##Requirement: 
+## Requirement: 
   >Octave or MATLAB
   >Basic knowledge of Python
